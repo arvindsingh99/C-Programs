@@ -1,4 +1,4 @@
-//Program for checking a specific year is leap year or not
+//Program for checking a specific year is leap year or not.
 
 #include <stdio.h>
 

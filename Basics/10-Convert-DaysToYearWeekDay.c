@@ -1,4 +1,4 @@
-//Program to convert given days into years, week and days
+//Program to convert given days into years, week and days.
 
 #include <stdio.h>
 

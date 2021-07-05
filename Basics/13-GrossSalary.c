@@ -1,4 +1,4 @@
-//Program to find gross ssalary of a employee
+//Program to find gross ssalary of a employee.
 
 #include<stdio.h>
 

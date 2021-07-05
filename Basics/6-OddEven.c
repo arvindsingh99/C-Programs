@@ -1,4 +1,4 @@
-//To print the whether given number is Odd or Even
+//Program to check whether the given number is Odd or Even.
 
 #include<stdio.h>
 
