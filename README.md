@@ -18,9 +18,9 @@
 # Mathmatics Category Programs
 1.Program to find sum of numbers till n. <br />
 2.Program to find sum of all digits of a number. <br />
-3.Program to Reverse of a number. <br />
-4.
-5.
+3.Program to find Reverse of a number. <br />
+4.Program to find whether given number is palindrome or not. <br />
+5.Progrom to find the sum of all integers divisible by 2 between two numbers. <br />
 6.
 7.
 8.
@@ -29,8 +29,8 @@
 
 
 # Patterns Category Programs
-1.Program to find sum of numbers till n. <br />
-2. Program to find sum of all digits of a number.<br />
+1.
+2. 
 3.
 4.
 5.
